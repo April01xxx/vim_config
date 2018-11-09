@@ -1,0 +1,2 @@
+winmanager.vmb: call delete('/Users/laner/.vim/doc/winmanager.txt')|call delete('/Users/laner/.vim/plugin/winfileexplorer.vim')|call delete('/Users/laner/.vim/plugin/winmanager.vim')|call delete('/Users/laner/.vim/plugin/wintagexplorer.vim')
+winmanager.vmb: call delete('/Users/laner/.vim/doc/winmanager.txt')|call delete('/Users/laner/.vim/plugin/winfileexplorer.vim')|call delete('/Users/laner/.vim/plugin/winmanager.vim')|call delete('/Users/laner/.vim/plugin/wintagexplorer.vim')

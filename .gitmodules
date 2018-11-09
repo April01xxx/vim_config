@@ -1,0 +1,3 @@
+[submodule "YouCompleteMe"]
+	path = YouCompleteMe
+	url = ./bundle/YouCompleteMe
